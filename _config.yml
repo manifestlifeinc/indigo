@@ -16,7 +16,7 @@ resume: true
 resume-external: local
 resume-url: 'assets/images/isaiah-king-full-stack-resume.pdf'
 
-url: http://manifestlifeinc.github.io/indigo
+url: http://manifestlifeinc.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -109,5 +109,3 @@ plugins:
 
 jekyll-mentions:
     base_url: https://github.com
-
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, indigo-gh-pages.zip, Rakefile, screen-shot.png, travis.sh, .DS_store]
