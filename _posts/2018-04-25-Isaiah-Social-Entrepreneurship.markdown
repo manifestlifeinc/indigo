@@ -7,7 +7,7 @@ tag:
 - King
 - Social
 - Entrepreneur
-blog: true
+category: blog
 star: true
 ---
 
