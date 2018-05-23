@@ -1,7 +1,7 @@
 ---
 title: "Isaiah King A Social Entrepreneur"
 layout: post
-date: 2018-04-25
+date: 2018-04-26
 tag:
 - Isaiah
 - King
