@@ -6,7 +6,7 @@ tag:
 - Opportunity
 - Detroit
 - Entrepreneur
-category: blog
+blog: true
 star: true
 ---
 
