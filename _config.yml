@@ -17,13 +17,9 @@ resume-external: external
 resume-url: http://manifest.life/assets/images/isaiah-king-full-stack-resume.pdf
 
 <<<<<<< HEAD
-url: https://manifestlifeinc.github.io/indigo
+
 =======
-<<<<<<< HEAD
-url: https://manifest.life
-=======
-url: https://manifest.life
->>>>>>> gh-pages
+url: http://manifestlifeinc.github.io
 >>>>>>> gh-pages
 # your url: http://USERNAME.github.io
 
