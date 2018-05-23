@@ -1,5 +1,5 @@
 ---
-title: "Revitalization through Innovation: Lasell College Entrepreneurs Travel to Detroit"
+title: "Revitalization through Innovation Lasell College Entrepreneurs Travel to Detroit"
 layout: post
 date: 2018-04-26
 tag:
