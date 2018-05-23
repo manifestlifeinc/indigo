@@ -1,7 +1,7 @@
 ---
 title: "Revitalization through Innovation: Lasell College Entrepreneurs Travel to Detroit"
 layout: post
-date: 2016-04-26
+date: 2018-04-26
 tag:
 - Opportunity
 - Detroit
@@ -9,10 +9,8 @@ tag:
 blog: true
 star: true
 ---
+
 ![opportunity_detroit](/assets/images/OD/OD_Logo-compressor.png)
-
-
-
 
 # REVITALIZATION THROUGH INNOVATION: Students from Lasell College (Newton MA) travel to Detroit, and learn from entrepreneurs rebuilding motor city
 
@@ -303,34 +301,52 @@ http://quickfacts.census.gov/qfd/states/26/2622000.html -->
 REVITALIZATION THROUGH INNOVATION: LASELL STUDENTS TRAVEL TO DETROIT,
 LEARN FROM ENTREPRENEURS REBUILDING MOTOR CITY
 
-[^1]: Auto industry decline, racial tension at the root of Detroit's
+[^1]:
+
+    Auto industry decline, racial tension at the root of Detroit's
     collapse. (n.d.). Retrieved November 12, 2014, from
 
     http://www.pennlive.com/midstate/index.ssf/201
 
-[^2]: United States Census Bureau. (n.d.). Retrieved November 12, 2014,
+[^2]:
+
+    United States Census Bureau. (n.d.). Retrieved November 12, 2014,
     from http://quickfacts.census.gov/qfd/states/26/2622000.html
 
-[^3]: A Better Solution for Detroit's Blight. (n.d.). Retrieved November
+[^3]:
+
+    A Better Solution for Detroit's Blight. (n.d.). Retrieved November
     12, 2014, from
 
     http://www.thefiscaltimes.com/Articles/2014/05/30/Better-Solution-Detroit-s-Blight
 
-[^4]: "Choose Thinking: A Blog by Dan Gilbert." *About Dan Gilbert*.
+[^4]:
+
+    "Choose Thinking: A Blog by Dan Gilbert." _About Dan Gilbert_.
     N.p., n.d. Web. 25 Nov. 2014.
 
-[^5]: "Dan Gilbert." *Chairman and Founder, Quicken Loans Inc. •
-    Majority Owner, Cleveland Cavaliers*. N.p., n.d. Web. 25 Nov. 2014.
+[^5]:
 
-[^6]: "Gilbertville: A Billionaire's Drive To Rebuild The Motor City."
-    *Forbes*. Forbes Magazine, n.d. Web. 25 Nov. 2014.
+    "Dan Gilbert." _Chairman and Founder, Quicken Loans Inc. •
+    Majority Owner, Cleveland Cavaliers_. N.p., n.d. Web. 25 Nov. 2014.
 
-[^7]: Sorge, Marge. *Detroit Facts Economic Development Final 8-15-13*
+[^6]:
+
+    "Gilbertville: A Billionaire's Drive To Rebuild The Motor City."
+    _Forbes_. Forbes Magazine, n.d. Web. 25 Nov. 2014.
+
+[^7]:
+
+    Sorge, Marge. _Detroit Facts Economic Development Final 8-15-13_
     (n.d.): n. pag. Web.
 
-[^8]: "Cost of Living Comparison:Detroit, Michigan - Boston,
-    Massachusetts." *Cost of Living Comparison: Compare Detroit,
-    Michigan to Boston, Massachusetts*. N.p., n.d. Web. 09 Dec. 2014.
+[^8]:
 
-[^9]: About Us. (n.d.). Retrieved November 12, 2014, from
+    "Cost of Living Comparison:Detroit, Michigan - Boston,
+    Massachusetts." _Cost of Living Comparison: Compare Detroit,
+    Michigan to Boston, Massachusetts_. N.p., n.d. Web. 09 Dec. 2014.
+
+[^9]:
+
+    About Us. (n.d.). Retrieved November 12, 2014, from
     http://opportunitydetroit.com/about-us/
