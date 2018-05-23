@@ -1,12 +1,12 @@
 ---
 title: "Google - An In-depth Analysis"
 layout: post
-date: 2016-04-27
+date: 2018-04-27
 tag:
 - Google
 - Case study
 - Search Engine
-blog: true
+projects: true
 star: true
 permalink: /google/
 ---
@@ -19,9 +19,9 @@ By: Robyn Crean, Jason DiCarlo,
 
 Amy Granville, Isaiah King
 
-***Table of Contents***
+**_Table of Contents_**
 
-*Pages*
+_Pages_
 
 1.  Company Background 3 - 8
 
@@ -39,7 +39,7 @@ Amy Granville, Isaiah King
 
 8.  Works Cited 43 - 45
 
-***Company Background***
+**_Company Background_**
 
 America's top search engine company, Google Inc., was founded in 1996 by
 Sergey Brin and Larry Page. The two met at Stanford University where the
@@ -174,9 +174,9 @@ the times and staying relevant. Today, Google may be a huge success
 however staying on top is an important key factor in their future
 success.
 
-***General Environmental Analysis***
+**_General Environmental Analysis_**
 
-*Technological Trends*
+_Technological Trends_
 
 Google is a popular search engine that uses text-matching techniques to
 find web pages that are important and relevant to a user’s search
@@ -268,7 +268,7 @@ said products. As technological advances increase, Google will continue
 to be successful with their original search engine and apps while also
 venturing out into various types of hardware.
 
-*Demographic Trends*
+_Demographic Trends_
 
 Google is targeted generally towards everyone however, has a relatively
 young user base. About 60% of Americans visit Google weekly, most users
@@ -279,7 +279,7 @@ affected because internet searching is not a gender specific issue. The
 company will further benefit from traditional or paternalistic societies
 begin using the internet more frequently.[^33]
 
-*Economic Trends*
+_Economic Trends_
 
 Although the United States is in a period of recession, companies like
 Google are not affected because search and internet-based advertisements
@@ -313,7 +313,7 @@ more expensive resulting in companies to increase prices of their
 products. As the product price increases, so does the cost of a Google
 advertisement, resulting in more profits for the company.[^38]
 
-*Political Trends*
+_Political Trends_
 
 Most governments do not have legal or political laws for online
 information sharing, therefore Google’s operations remain unaffected.
@@ -337,7 +337,7 @@ their terms. In 2013, the Chinese Government created a surveillance
 system called the Golden Shield, which monitors civilian use of the
 internet.[^41]
 
-*Sociolocultural Trends*
+_Sociolocultural Trends_
 
 Sociocultural trends affect the way that customers respond to Google’s
 products. Today, there is an increase in use of social media. Although
@@ -345,7 +345,7 @@ social media sites offer online advertising for companies, such as
 Google, social media poses as a threat. As the use of these sites
 increase, so do competing sites such as Facebook.[^42]
 
-*Global Trends*
+_Global Trends_
 
 The internet and search applies to most cultures worldwide, therefore
 Google does not face a geographic dependence. Google has 20 offices in
@@ -357,7 +357,7 @@ disadvantaged countries will be able to gain access to the internet for
 the first time. Google will then be able to introduce these new users to
 its search engine and productivity products.[^43]
 
-***Industry Analysis***
+**_Industry Analysis_**
 
 Through a qualitative and quantitative analysis of the Web Search
 segment, the standout characteristics include: Intense Rivalries,
@@ -564,17 +564,19 @@ unlikely that Bing will overtake Google, the search engines within
 Facebook, Amazon, and other sites could shift how Internet search
 segments perform and compete.
 
-***Competitor Analysis***
+**_Competitor Analysis_**
 
 [^51]
 
                **Google**   **Yahoo**
-  ------------ ------------ -----------
-  Market Cap   495.93B      33.20B
-  Employees    59,976       12,500
-  Revenue      71.76B       4.95B
-  Net Income   15.44B       242.18M
-  EPS          23.72        0.26
+
+---
+
+Market Cap 495.93B 33.20B
+Employees 59,976 12,500
+Revenue 71.76B 4.95B
+Net Income 15.44B 242.18M
+EPS 23.72 0.26
 
 The competitive industries that Google operates in cannot be classified
 by using only one or two industries. Its diversified portfolio spans a
@@ -617,7 +619,7 @@ seeing their hard work pay off. Yahoo also stretched out the one
 positive revenue streak it had going, increasing its search revenue
 year-over-year for the fifth straight quarter.[^55]
 
-***Value Chain***
+**_Value Chain_**
 
 ![](media/image05.jpg){width="6.75625in" height="2.736111111111111in"}
 
@@ -632,7 +634,7 @@ history to recognize users’ interests. Google ensures that the users who
 are directed to a partner site are more likely to purchase a product
 there.[^56]
 
-***Internal Analysis***
+**_Internal Analysis_**
 
 ![](media/image10.png){width="6.0in" height="4.726388888888889in"}[^57]
 
@@ -653,7 +655,7 @@ been lower than those from desktop computers and tablets.[^58]
 
 ![](media/image11.png){width="6.0in" height="6.375in"}
 
-***SWOT Analysis***
+**_SWOT Analysis_**
 
 Google Inc. is an American multinational technology company specializing
 in Internet-related services and products having successfully captured
@@ -792,7 +794,7 @@ from breaching the company. Google has a lot of important and fragile
 customer information that would cause a lot of problems if it was
 breached.[^67]
 
-***Strategies***
+**_Strategies_**
 
 “There are many different ways you can use our services – to search for
 and share information, to communicate with other people or to create new
@@ -886,275 +888,411 @@ end-users realize the value of the firm’s privacy practices through
 helping them realize that sharing their private information is worth
 having the most effective Google experience.
 
-***Works Cited***
+**_Works Cited_**
 
-[*https://www.google.com/about/company/history/*](https://www.google.com/about/company/history/)
+[_https://www.google.com/about/company/history/_](https://www.google.com/about/company/history/)
 
-[*http://www.landley.net/history/mirror/net/google-history.html*](http://www.landley.net/history/mirror/net/google-history.html)
+[_http://www.landley.net/history/mirror/net/google-history.html_](http://www.landley.net/history/mirror/net/google-history.html)
 
-[*https://www.google.com/about/company/history/*](https://www.google.com/about/company/history/)
+[_https://www.google.com/about/company/history/_](https://www.google.com/about/company/history/)
 
-[*http://www.landley.net/history/mirror/net/google-history.html*](http://www.landley.net/history/mirror/net/google-history.html)
+[_http://www.landley.net/history/mirror/net/google-history.html_](http://www.landley.net/history/mirror/net/google-history.html)
 
-[*http://www.businessinsider.com/history-sergey-brin-larry-page-and-google-strategy-2011-3*](http://www.businessinsider.com/history-sergey-brin-larry-page-and-google-strategy-2011-3)
+[_http://www.businessinsider.com/history-sergey-brin-larry-page-and-google-strategy-2011-3_](http://www.businessinsider.com/history-sergey-brin-larry-page-and-google-strategy-2011-3)
 
 Google.com
 
-[*https://www.google.com/about/company/history/*](https://www.google.com/about/company/history/)
+[_https://www.google.com/about/company/history/_](https://www.google.com/about/company/history/)
 
-[*https://www.google.com/about/company/history/*](https://www.google.com/about/company/history/)
+[_https://www.google.com/about/company/history/_](https://www.google.com/about/company/history/)
 
-[*https://www.youtube.com/watch?v=OAyUNI3\_V2c&feature=youtu.be*](https://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtu.be)
+[_https://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtu.be_](https://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtu.be)
 
-[*www.youtube.com/watch?v=OAyUNI3\_V2c&feature=youtube*](http://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtube)
+[_www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtube_](http://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtube)
 
-[*https://www.google.com/maps/@42.3414189,-71.2457625,15z*](https://www.google.com/maps/@42.3414189,-71.2457625,15z)
+[_https://www.google.com/maps/@42.3414189,-71.2457625,15z_](https://www.google.com/maps/@42.3414189,-71.2457625,15z)
 
-[*http://www.landley.net/history/mirror/net/google-history.html*](http://www.landley.net/history/mirror/net/google-history.html)
+[_http://www.landley.net/history/mirror/net/google-history.html_](http://www.landley.net/history/mirror/net/google-history.html)
 
-[*https://www.google.com/about/company/*](https://www.google.com/about/company/)
+[_https://www.google.com/about/company/_](https://www.google.com/about/company/)
 
-[*http://bi.galegroup.com/essentials/article/GALE%7CI2501312700/c0bf76ecd0964520149cc15cf1a59771?u=las*](http://bi.galegroup.com/essentials/article/GALE%7CI2501312700/c0bf76ecd0964520149cc15cf1a59771?u=las)
+[_http://bi.galegroup.com/essentials/article/GALE%7CI2501312700/c0bf76ecd0964520149cc15cf1a59771?u=las_](http://bi.galegroup.com/essentials/article/GALE%7CI2501312700/c0bf76ecd0964520149cc15cf1a59771?u=las)
 
-[*https://en.wikipedia.org/wiki/Usenet*](https://en.wikipedia.org/wiki/Usenet)
+[_https://en.wikipedia.org/wiki/Usenet_](https://en.wikipedia.org/wiki/Usenet)
 
-[*https://en.wikipedia.org/wiki/Google\_Groups*](https://en.wikipedia.org/wiki/Google_Groups)
+[_https://en.wikipedia.org/wiki/Google_Groups_](https://en.wikipedia.org/wiki/Google_Groups)
 
-[*https://en.wikipedia.org/wiki/Dodgeball\_(service)*](https://en.wikipedia.org/wiki/Dodgeball_(service))
+[_https://en.wikipedia.org/wiki/Dodgeball\_(service)_](<https://en.wikipedia.org/wiki/Dodgeball_(service)>)
 
-[*https://en.wikipedia.org/wiki/Dodgeball\_(service)*](https://en.wikipedia.org/wiki/Dodgeball_(service))
+[_https://en.wikipedia.org/wiki/Dodgeball\_(service)_](<https://en.wikipedia.org/wiki/Dodgeball_(service)>)
 
-[*https://en.wikipedia.org/wiki/Google\_Latitude*](https://en.wikipedia.org/wiki/Google_Latitude)
+[_https://en.wikipedia.org/wiki/Google_Latitude_](https://en.wikipedia.org/wiki/Google_Latitude)
 
-[*https://en.wikipedia.org/wiki/Web\_application*](https://en.wikipedia.org/wiki/Web_application)
+[_https://en.wikipedia.org/wiki/Web_application_](https://en.wikipedia.org/wiki/Web_application)
 
-[*https://en.wikipedia.org/wiki/YouTube\_Next\_Lab\_and\_Audience\_Development\_Group*](https://en.wikipedia.org/wiki/YouTube_Next_Lab_and_Audience_Development_Group)
+[_https://en.wikipedia.org/wiki/YouTube_Next_Lab_and_Audience_Development_Group_](https://en.wikipedia.org/wiki/YouTube_Next_Lab_and_Audience_Development_Group)
 
 Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases. Mason, OH:
 Cengage Learning. p. 31 -42
 
-[*https://www.siteground.com/tutorials/googleapps/*](https://www.siteground.com/tutorials/googleapps/)
+[_https://www.siteground.com/tutorials/googleapps/_](https://www.siteground.com/tutorials/googleapps/)
 
-[*http://searchsoa.techtarget.com/definition/Gmail*](http://searchsoa.techtarget.com/definition/Gmail)
+[_http://searchsoa.techtarget.com/definition/Gmail_](http://searchsoa.techtarget.com/definition/Gmail)
 
-[*https://www.siteground.com/tutorials/googleapps/googleapps\_overview.htm*](https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm)
+[_https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm_](https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm)
 
-[*https://www.siteground.com/tutorials/googleapps/googleapps\_overview.htm*](https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm)
+[_https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm_](https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm)
 
-[*https://cloud.google.com/storage/docs/overview*](https://cloud.google.com/storage/docs/overview)
+[_https://cloud.google.com/storage/docs/overview_](https://cloud.google.com/storage/docs/overview)
 
-[*https://apps.google.com/marketplace/?pann=gam*](https://apps.google.com/marketplace/?pann=gam)
+[_https://apps.google.com/marketplace/?pann=gam_](https://apps.google.com/marketplace/?pann=gam)
 
-[*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+[_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
 
-[*http://benmorrow.info/blog/external-analysis-of-google-inc*](http://benmorrow.info/blog/external-analysis-of-google-inc)
+[_http://benmorrow.info/blog/external-analysis-of-google-inc_](http://benmorrow.info/blog/external-analysis-of-google-inc)
 
-[*http://benmorrow.info/blog/external-analysis-of-google-inc*](http://benmorrow.info/blog/external-analysis-of-google-inc)
+[_http://benmorrow.info/blog/external-analysis-of-google-inc_](http://benmorrow.info/blog/external-analysis-of-google-inc)
 
-[*http://www.eruptingmind.com/the-business-environment-and-its-effects-on-google/*](http://www.eruptingmind.com/the-business-environment-and-its-effects-on-google/)
+[_http://www.eruptingmind.com/the-business-environment-and-its-effects-on-google/_](http://www.eruptingmind.com/the-business-environment-and-its-effects-on-google/)
 
-[*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+[_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
 
-[*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+[_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
 
-[*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+[_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
 
-[*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+[_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
 
-[*http://benmorrow.info/blog/external-analysis-of-google-inc*](http://benmorrow.info/blog/external-analysis-of-google-inc)
+[_http://benmorrow.info/blog/external-analysis-of-google-inc_](http://benmorrow.info/blog/external-analysis-of-google-inc)
 
-[*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+[_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
 
-[*http://panmore.com/google-pestel-pestle-analysis-recommendations*](http://panmore.com/google-pestel-pestle-analysis-recommendations)
+[_http://panmore.com/google-pestel-pestle-analysis-recommendations_](http://panmore.com/google-pestel-pestle-analysis-recommendations)
 
-[*http://benmorrow.info/blog/external-analysis-of-google-inc*](http://benmorrow.info/blog/external-analysis-of-google-inc)
+[_http://benmorrow.info/blog/external-analysis-of-google-inc_](http://benmorrow.info/blog/external-analysis-of-google-inc)
 
-[*http://www.technology-essays.com/essays/bells\_post\_industrial\_society\_essay.htm*](http://www.technology-essays.com/essays/bells_post_industrial_society_essay.htm)
+[_http://www.technology-essays.com/essays/bells_post_industrial_society_essay.htm_](http://www.technology-essays.com/essays/bells_post_industrial_society_essay.htm)
 
-[*http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp\#ixzz3qkU3R0Em*](http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp#ixzz3qkU3R0Em)
+[_http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp\#ixzz3qkU3R0Em_](http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp#ixzz3qkU3R0Em)
 
-[*www.alexa.com*](http://www.alexa.com)
+[_www.alexa.com_](http://www.alexa.com)
 
-[*http://fortune.com/2014/11/17/top-10-research-development/*](http://fortune.com/2014/11/17/top-10-research-development/)
+[_http://fortune.com/2014/11/17/top-10-research-development/_](http://fortune.com/2014/11/17/top-10-research-development/)
 
-[*http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp*](http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp)
+[_http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp_](http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp)
 
-[*http://finance.yahoo.com/q/co?s=GOOG+Competitors*](http://finance.yahoo.com/q/co?s=GOOG+Competitors)
+[_http://finance.yahoo.com/q/co?s=GOOG+Competitors_](http://finance.yahoo.com/q/co?s=GOOG+Competitors)
 
-[*https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0*](https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0)
+[_https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0_](https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0)
 
-[*http://www.microsoft.com/investor/reports/ar14/index.html*](http://www.microsoft.com/investor/reports/ar14/index.html)
+[_http://www.microsoft.com/investor/reports/ar14/index.html_](http://www.microsoft.com/investor/reports/ar14/index.html)
 
-[*http://files.shareholder.com/downloads/YHOO/967709701x0x826745/b7e0b2eb-68d3-4612-9307-03478b206a37/YahooInc2014AnnualReport.pdf*](http://files.shareholder.com/downloads/YHOO/967709701x0x826745/b7e0b2eb-68d3-4612-9307-03478b206a37/YahooInc2014AnnualReport.pdf)
+[_http://files.shareholder.com/downloads/YHOO/967709701x0x826745/b7e0b2eb-68d3-4612-9307-03478b206a37/YahooInc2014AnnualReport.pdf_](http://files.shareholder.com/downloads/YHOO/967709701x0x826745/b7e0b2eb-68d3-4612-9307-03478b206a37/YahooInc2014AnnualReport.pdf)
 
-[*https://investor.google.com/financial/tables.html*](https://investor.google.com/financial/tables.html)
+[_https://investor.google.com/financial/tables.html_](https://investor.google.com/financial/tables.html)
 
-[*http://benmorrow.info/blog/internal-analysis-of-google-inc*](http://benmorrow.info/blog/internal-analysis-of-google-inc)
+[_http://benmorrow.info/blog/internal-analysis-of-google-inc_](http://benmorrow.info/blog/internal-analysis-of-google-inc)
 
-[*http://finance.yahoo.com/q/is?s=GOOG+Income+Statement&annual*](http://finance.yahoo.com/q/is?s=GOOG+Income+Statement&annual)
+[_http://finance.yahoo.com/q/is?s=GOOG+Income+Statement&annual_](http://finance.yahoo.com/q/is?s=GOOG+Income+Statement&annual)
 
-[*https://investor.google.com/pdf/20141231\_google\_10K.pdf*](https://investor.google.com/pdf/20141231_google_10K.pdf)
+[_https://investor.google.com/pdf/20141231_google_10K.pdf_](https://investor.google.com/pdf/20141231_google_10K.pdf)
 
-[*http://finance.yahoo.com/q/bs?s=GOOG+Balance+Sheet&annual*](http://finance.yahoo.com/q/bs?s=GOOG+Balance+Sheet&annual)
+[_http://finance.yahoo.com/q/bs?s=GOOG+Balance+Sheet&annual_](http://finance.yahoo.com/q/bs?s=GOOG+Balance+Sheet&annual)
 
-[*https://www.youtube.com/watch?v=KgGXuHUW4CE*](https://www.youtube.com/watch?v=KgGXuHUW4CE)
+[_https://www.youtube.com/watch?v=KgGXuHUW4CE_](https://www.youtube.com/watch?v=KgGXuHUW4CE)
 
-[*http://www.ukessays.com/essays/business/analysing-the-core-competencies-of-google-inc-business-essay.php\#ixzz3qpdYFnxK*](http://www.ukessays.com/essays/business/analysing-the-core-competencies-of-google-inc-business-essay.php#ixzz3qpdYFnxK)
+[_http://www.ukessays.com/essays/business/analysing-the-core-competencies-of-google-inc-business-essay.php\#ixzz3qpdYFnxK_](http://www.ukessays.com/essays/business/analysing-the-core-competencies-of-google-inc-business-essay.php#ixzz3qpdYFnxK)
 
-[*https://www.youtube.com/user/googleprivacy/about*](https://www.youtube.com/user/googleprivacy/about)
+[_https://www.youtube.com/user/googleprivacy/about_](https://www.youtube.com/user/googleprivacy/about)
 
-[*https://stonybrook.digication.com/calvins\_google/Welcome*](https://stonybrook.digication.com/calvins_google/Welcome)\
-[*http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-
-threats-analysis-information-technology-essay.php*](http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-%09threats-analysis-information-technology-essay.php)\
-[*http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003p
-rodId=GVRL&searchId=R2&resultListType=RESULT\_LIST&searchType=AdvancedSearchForm&co
+[_https://stonybrook.digication.com/calvins_google/Welcome_](https://stonybrook.digication.com/calvins_google/Welcome)\
+[_http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-
+threats-analysis-information-technology-essay.php_](http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-%09threats-analysis-information-technology-essay.php)\
+[_http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003p
+rodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&co
 ntentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=
-las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110*](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003p%09rodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&co%09ntentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=%09las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110)
+las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110_](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003p%09rodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&co%09ntentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=%09las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110)
 
-[^1]: [*https://www.google.com/about/company/history/*](https://www.google.com/about/company/history/)
+[^1]:
 
-[^2]: [*http://www.landley.net/history/mirror/net/google-history.html*](http://www.landley.net/history/mirror/net/google-history.html)
+    [_https://www.google.com/about/company/history/_](https://www.google.com/about/company/history/)
 
-[^3]: [*https://www.google.com/about/company/history/*](https://www.google.com/about/company/history/)
+[^2]:
 
-[^4]: [*http://www.landley.net/history/mirror/net/google-history.html*](http://www.landley.net/history/mirror/net/google-history.html)
+    [_http://www.landley.net/history/mirror/net/google-history.html_](http://www.landley.net/history/mirror/net/google-history.html)
 
-[^5]: [*http://www.businessinsider.com/history-sergey-brin-larry-page-and-google-strategy-2011-3*](http://www.businessinsider.com/history-sergey-brin-larry-page-and-google-strategy-2011-3)
+[^3]:
+
+    [_https://www.google.com/about/company/history/_](https://www.google.com/about/company/history/)
+
+[^4]:
+
+    [_http://www.landley.net/history/mirror/net/google-history.html_](http://www.landley.net/history/mirror/net/google-history.html)
+
+[^5]:
+
+    [_http://www.businessinsider.com/history-sergey-brin-larry-page-and-google-strategy-2011-3_](http://www.businessinsider.com/history-sergey-brin-larry-page-and-google-strategy-2011-3)
 
 [^6]: Google.com
+[^7]:
 
-[^7]: [*https://www.google.com/about/company/history/*](https://www.google.com/about/company/history/)
+    [_https://www.google.com/about/company/history/_](https://www.google.com/about/company/history/)
 
-[^8]: [*https://www.google.com/about/company/history/*](https://www.google.com/about/company/history/)
+[^8]:
 
-[^9]: [*https://www.youtube.com/watch?v=OAyUNI3\_V2c&feature=youtu.be*](https://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtu.be)
+    [_https://www.google.com/about/company/history/_](https://www.google.com/about/company/history/)
 
-[^10]: [*www.youtube.com/watch?v=OAyUNI3\_V2c&feature=youtube*](http://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtube)
+[^9]:
 
-[^11]: [*https://www.google.com/maps/@42.3414189,-71.2457625,15z*](https://www.google.com/maps/@42.3414189,-71.2457625,15z)
+    [_https://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtu.be_](https://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtu.be)
 
-[^12]: [*http://www.landley.net/history/mirror/net/google-history.html*](http://www.landley.net/history/mirror/net/google-history.html)
+[^10]:
 
-[^13]: [*https://www.google.com/about/company/*](https://www.google.com/about/company/)
+    [_www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtube_](http://www.youtube.com/watch?v=OAyUNI3_V2c&feature=youtube)
 
-[^14]: [*http://bi.galegroup.com/essentials/article/GALE%7CI2501312700/c0bf76ecd0964520149cc15cf1a59771?u=las*](http://bi.galegroup.com/essentials/article/GALE%7CI2501312700/c0bf76ecd0964520149cc15cf1a59771?u=las)
+[^11]:
 
-[^15]: [*https://en.wikipedia.org/wiki/Usenet*](https://en.wikipedia.org/wiki/Usenet)
+    [_https://www.google.com/maps/@42.3414189,-71.2457625,15z_](https://www.google.com/maps/@42.3414189,-71.2457625,15z)
 
-[^16]: [*https://en.wikipedia.org/wiki/Google\_Groups*](https://en.wikipedia.org/wiki/Google_Groups)
+[^12]:
 
-[^17]: [*https://en.wikipedia.org/wiki/Dodgeball\_(service)*](https://en.wikipedia.org/wiki/Dodgeball_(service))
+    [_http://www.landley.net/history/mirror/net/google-history.html_](http://www.landley.net/history/mirror/net/google-history.html)
 
-[^18]: [*https://en.wikipedia.org/wiki/Dodgeball\_(service)*](https://en.wikipedia.org/wiki/Dodgeball_(service))
+[^13]:
 
-[^19]: [*https://en.wikipedia.org/wiki/Google\_Latitude*](https://en.wikipedia.org/wiki/Google_Latitude)
+    [_https://www.google.com/about/company/_](https://www.google.com/about/company/)
 
-[^20]: [*https://en.wikipedia.org/wiki/Web\_application*](https://en.wikipedia.org/wiki/Web_application)
+[^14]:
 
-[^21]: [*https://en.wikipedia.org/wiki/YouTube\_Next\_Lab\_and\_Audience\_Development\_Group*](https://en.wikipedia.org/wiki/YouTube_Next_Lab_and_Audience_Development_Group)
+    [_http://bi.galegroup.com/essentials/article/GALE%7CI2501312700/c0bf76ecd0964520149cc15cf1a59771?u=las_](http://bi.galegroup.com/essentials/article/GALE%7CI2501312700/c0bf76ecd0964520149cc15cf1a59771?u=las)
 
-[^22]: Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
+[^15]:
+
+    [_https://en.wikipedia.org/wiki/Usenet_](https://en.wikipedia.org/wiki/Usenet)
+
+[^16]:
+
+    [_https://en.wikipedia.org/wiki/Google_Groups_](https://en.wikipedia.org/wiki/Google_Groups)
+
+[^17]:
+
+    [_https://en.wikipedia.org/wiki/Dodgeball\_(service)_](<https://en.wikipedia.org/wiki/Dodgeball_(service)>)
+
+[^18]:
+
+    [_https://en.wikipedia.org/wiki/Dodgeball\_(service)_](<https://en.wikipedia.org/wiki/Dodgeball_(service)>)
+
+[^19]:
+
+    [_https://en.wikipedia.org/wiki/Google_Latitude_](https://en.wikipedia.org/wiki/Google_Latitude)
+
+[^20]:
+
+    [_https://en.wikipedia.org/wiki/Web_application_](https://en.wikipedia.org/wiki/Web_application)
+
+[^21]:
+
+    [_https://en.wikipedia.org/wiki/YouTube_Next_Lab_and_Audience_Development_Group_](https://en.wikipedia.org/wiki/YouTube_Next_Lab_and_Audience_Development_Group)
+
+[^22]:
+
+    Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
     Mason, OH: Cengage Learning. p. 31
 
-[^23]: Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
+[^23]:
+
+    Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
     Mason, OH: Cengage Learning. p. 32
 
-[^24]: [*https://www.siteground.com/tutorials/googleapps/*](https://www.siteground.com/tutorials/googleapps/)
+[^24]:
 
-[^25]: [*http://searchsoa.techtarget.com/definition/Gmail*](http://searchsoa.techtarget.com/definition/Gmail)
+    [_https://www.siteground.com/tutorials/googleapps/_](https://www.siteground.com/tutorials/googleapps/)
 
-[^26]: [*https://www.siteground.com/tutorials/googleapps/googleapps\_overview.htm*](https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm)
+[^25]:
 
-[^27]: Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
+    [_http://searchsoa.techtarget.com/definition/Gmail_](http://searchsoa.techtarget.com/definition/Gmail)
+
+[^26]:
+
+    [_https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm_](https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm)
+
+[^27]:
+
+    Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
     Mason, OH: Cengage Learning. p. 32
 
-[^28]: [*https://www.siteground.com/tutorials/googleapps/googleapps\_overview.htm*](https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm)
+[^28]:
 
-[^29]: [*https://cloud.google.com/storage/docs/overview*](https://cloud.google.com/storage/docs/overview)
+    [_https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm_](https://www.siteground.com/tutorials/googleapps/googleapps_overview.htm)
 
-[^30]: [*https://apps.google.com/marketplace/?pann=gam*](https://apps.google.com/marketplace/?pann=gam)
+[^29]:
 
-[^31]: [*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+    [_https://cloud.google.com/storage/docs/overview_](https://cloud.google.com/storage/docs/overview)
 
-[^32]: Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
+[^30]:
+
+    [_https://apps.google.com/marketplace/?pann=gam_](https://apps.google.com/marketplace/?pann=gam)
+
+[^31]:
+
+    [_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+
+[^32]:
+
+    Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
     Mason, OH: Cengage Learning. p. 40
 
-[^33]: [*http://benmorrow.info/blog/external-analysis-of-google-inc*](http://benmorrow.info/blog/external-analysis-of-google-inc)
+[^33]:
 
-[^34]: [*http://benmorrow.info/blog/external-analysis-of-google-inc*](http://benmorrow.info/blog/external-analysis-of-google-inc)
+    [_http://benmorrow.info/blog/external-analysis-of-google-inc_](http://benmorrow.info/blog/external-analysis-of-google-inc)
 
-[^35]: [*http://www.eruptingmind.com/the-business-environment-and-its-effects-on-google/*](http://www.eruptingmind.com/the-business-environment-and-its-effects-on-google/)
+[^34]:
 
-[^36]: [*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+    [_http://benmorrow.info/blog/external-analysis-of-google-inc_](http://benmorrow.info/blog/external-analysis-of-google-inc)
 
-[^37]: [*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+[^35]:
 
-[^38]: [*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+    [_http://www.eruptingmind.com/the-business-environment-and-its-effects-on-google/_](http://www.eruptingmind.com/the-business-environment-and-its-effects-on-google/)
 
-[^39]: [*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+[^36]:
 
-[^40]: [*http://benmorrow.info/blog/external-analysis-of-google-inc*](http://benmorrow.info/blog/external-analysis-of-google-inc)
+    [_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
 
-[^41]: [*http://www.academia.edu/5356952/A\_Case\_Study\_of\_Google\_Inc*](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+[^37]:
 
-[^42]: [*http://panmore.com/google-pestel-pestle-analysis-recommendations*](http://panmore.com/google-pestel-pestle-analysis-recommendations)
+    [_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
 
-[^43]: [*http://benmorrow.info/blog/external-analysis-of-google-inc*](http://benmorrow.info/blog/external-analysis-of-google-inc)
+[^38]:
 
-[^44]: Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
+    [_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+
+[^39]:
+
+    [_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+
+[^40]:
+
+    [_http://benmorrow.info/blog/external-analysis-of-google-inc_](http://benmorrow.info/blog/external-analysis-of-google-inc)
+
+[^41]:
+
+    [_http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc_](http://www.academia.edu/5356952/A_Case_Study_of_Google_Inc)
+
+[^42]:
+
+    [_http://panmore.com/google-pestel-pestle-analysis-recommendations_](http://panmore.com/google-pestel-pestle-analysis-recommendations)
+
+[^43]:
+
+    [_http://benmorrow.info/blog/external-analysis-of-google-inc_](http://benmorrow.info/blog/external-analysis-of-google-inc)
+
+[^44]:
+
+    Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
     Mason, OH: Cengage Learning
 
-[^45]: [*http://www.technology-essays.com/essays/bells\_post\_industrial\_society\_essay.htm*](http://www.technology-essays.com/essays/bells_post_industrial_society_essay.htm)
+[^45]:
 
-[^46]: [*http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp\#ixzz3qkU3R0Em*](http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp#ixzz3qkU3R0Em)
+    [_http://www.technology-essays.com/essays/bells_post_industrial_society_essay.htm_](http://www.technology-essays.com/essays/bells_post_industrial_society_essay.htm)
 
-[^47]: [*www.alexa.com*](http://www.alexa.com)
+[^46]:
 
-[^48]: Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
+    [_http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp\#ixzz3qkU3R0Em_](http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp#ixzz3qkU3R0Em)
+
+[^47]: [_www.alexa.com_](http://www.alexa.com)
+[^48]:
+
+    Hitt/Ireland/Hoskisson. (2015). Strategic Management Cases.
     Mason, OH: Cengage Learning
 
-[^49]: [*http://fortune.com/2014/11/17/top-10-research-development/*](http://fortune.com/2014/11/17/top-10-research-development/)
+[^49]:
 
-[^50]: [*http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp*](http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp)
+    [_http://fortune.com/2014/11/17/top-10-research-development/_](http://fortune.com/2014/11/17/top-10-research-development/)
 
-[^51]: [*http://finance.yahoo.com/q/co?s=GOOG+Competitors*](http://finance.yahoo.com/q/co?s=GOOG+Competitors)
+[^50]:
 
-[^52]: [*https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0*](https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0)
+    [_http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp_](http://www.investopedia.com/articles/investing/071515/search-engines-compete-google.asp)
 
-[^53]: [*http://www.microsoft.com/investor/reports/ar14/index.html*](http://www.microsoft.com/investor/reports/ar14/index.html)
+[^51]:
 
-[^54]: [*http://files.shareholder.com/downloads/YHOO/967709701x0x826745/b7e0b2eb-68d3-4612-9307-03478b206a37/YahooInc2014AnnualReport.pdf*](http://files.shareholder.com/downloads/YHOO/967709701x0x826745/b7e0b2eb-68d3-4612-9307-03478b206a37/YahooInc2014AnnualReport.pdf)
+    [_http://finance.yahoo.com/q/co?s=GOOG+Competitors_](http://finance.yahoo.com/q/co?s=GOOG+Competitors)
 
-[^55]: [*https://investor.google.com/financial/tables.html*](https://investor.google.com/financial/tables.html)
+[^52]:
 
-[^56]: [*http://benmorrow.info/blog/internal-analysis-of-google-inc*](http://benmorrow.info/blog/internal-analysis-of-google-inc)
+    [_https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0_](https://www.netmarketshare.com/search-engine-market-share.aspx?qprid=4&qpcustomd=0)
 
-[^57]: [*http://finance.yahoo.com/q/is?s=GOOG+Income+Statement&annual*](http://finance.yahoo.com/q/is?s=GOOG+Income+Statement&annual)
+[^53]:
 
-[^58]: [*https://investor.google.com/pdf/20141231\_google\_10K.pdf*](https://investor.google.com/pdf/20141231_google_10K.pdf)
+    [_http://www.microsoft.com/investor/reports/ar14/index.html_](http://www.microsoft.com/investor/reports/ar14/index.html)
 
-[^59]: [*http://finance.yahoo.com/q/bs?s=GOOG+Balance+Sheet&annual*](http://finance.yahoo.com/q/bs?s=GOOG+Balance+Sheet&annual)
+[^54]:
 
-[^60]: [*http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT\_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las*](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las)
+    [_http://files.shareholder.com/downloads/YHOO/967709701x0x826745/b7e0b2eb-68d3-4612-9307-03478b206a37/YahooInc2014AnnualReport.pdf_](http://files.shareholder.com/downloads/YHOO/967709701x0x826745/b7e0b2eb-68d3-4612-9307-03478b206a37/YahooInc2014AnnualReport.pdf)
 
-[^61]: [*http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php*](http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php)
+[^55]:
 
-[^62]: [*https://stonybrook.digication.com/calvins\_google/Welcome*](https://stonybrook.digication.com/calvins_google/Welcome)
+    [_https://investor.google.com/financial/tables.html_](https://investor.google.com/financial/tables.html)
 
-[^63]: [*http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT\_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las*](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las)
+[^56]:
 
-[^64]: [*http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php*](http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php)
+    [_http://benmorrow.info/blog/internal-analysis-of-google-inc_](http://benmorrow.info/blog/internal-analysis-of-google-inc)
 
-[^65]: [*http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT\_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las*](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las)
+[^57]:
 
-[^66]: [*http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php*](http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php)
+    [_http://finance.yahoo.com/q/is?s=GOOG+Income+Statement&annual_](http://finance.yahoo.com/q/is?s=GOOG+Income+Statement&annual)
 
-[^67]: [*http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT\_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las*](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las)
+[^58]:
 
-[^68]: [*https://www.google.com/policies/privacy/*](https://www.google.com/policies/privacy/)
+    [_https://investor.google.com/pdf/20141231_google_10K.pdf_](https://investor.google.com/pdf/20141231_google_10K.pdf)
 
-[^69]: [*https://www.youtube.com/watch?v=KgGXuHUW4CE*](https://www.youtube.com/watch?v=KgGXuHUW4CE)
+[^59]:
 
-[^70]: [*http://www.ukessays.com/essays/business/analysing-the-core-competencies-of-google-inc-business-essay.php\#ixzz3qpdYFnxK*](http://www.ukessays.com/essays/business/analysing-the-core-competencies-of-google-inc-business-essay.php#ixzz3qpdYFnxK)
+    [_http://finance.yahoo.com/q/bs?s=GOOG+Balance+Sheet&annual_](http://finance.yahoo.com/q/bs?s=GOOG+Balance+Sheet&annual)
 
-[^71]: [*https://www.youtube.com/user/googleprivacy/about*](https://www.youtube.com/user/googleprivacy/about)
+[^60]:
+
+    [_http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las_](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las)
+
+[^61]:
+
+    [_http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php_](http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php)
+
+[^62]:
+
+    [_https://stonybrook.digication.com/calvins_google/Welcome_](https://stonybrook.digication.com/calvins_google/Welcome)
+
+[^63]:
+
+    [_http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las_](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las)
+
+[^64]:
+
+    [_http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php_](http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php)
+
+[^65]:
+
+    [_http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las_](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las)
+
+[^66]:
+
+    [_http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php_](http://www.ukessays.com/essays/information-technology/the-strength-weakness-opportunities-and-threats-analysis-information-technology-essay.php)
+
+[^67]:
+
+    [_http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las_](http://go.galegroup.com/ps/retrieve.do?sort=RELEVANCE&docType=Company+overview&tabID=T003&prodId=GVRL&searchId=R2&resultListType=RESULT_LIST&searchType=AdvancedSearchForm&contentSegment=&currentPosition=1&searchResultsType=MultiTab&inPS=true&userGroupName=las&docId=GALE%7CCX2979600110&contentSet=GALE%7CCX2979600110&authCount=1&u=las)
+
+[^68]:
+
+    [_https://www.google.com/policies/privacy/_](https://www.google.com/policies/privacy/)
+
+[^69]:
+
+    [_https://www.youtube.com/watch?v=KgGXuHUW4CE_](https://www.youtube.com/watch?v=KgGXuHUW4CE)
+
+[^70]:
+
+    [_http://www.ukessays.com/essays/business/analysing-the-core-competencies-of-google-inc-business-essay.php\#ixzz3qpdYFnxK_](http://www.ukessays.com/essays/business/analysing-the-core-competencies-of-google-inc-business-essay.php#ixzz3qpdYFnxK)
+
+[^71]:
+
+    [_https://www.youtube.com/user/googleprivacy/about_](https://www.youtube.com/user/googleprivacy/about)

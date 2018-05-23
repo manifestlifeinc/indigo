@@ -1,11 +1,11 @@
 ---
 title: "Krispy Kreme"
 layout: post
-date: 2016-04-27
+date: 2018-04-27
 tag:
 - Krispy Kreme
 - Case Study
-blog: true
+projects: true
 star: true
 ---
 
@@ -15,7 +15,7 @@ Robyn Crean, Jason DiCarlo, Amy Granville, Isaiah King
 
 Lasell College
 
-***Company Background***
+**_Company Background_**
 
 Krispy Kreme Doughnuts was created when Vernon Rudolph discovered an old
 hand-written doughnut recipe that his uncle, a Kentucky farmer, had
@@ -94,9 +94,9 @@ important to the company. Though the company has had its ups and downs,
 Krispy Kreme will always maintain a role as one of the leading doughnut
 brands in the world.
 
-***General Environmental Analysis***
+**_General Environmental Analysis_**
 
-*Political Trends*
+_Political Trends_
 
 Krispy Kreme must adhere to many different codes including: Code of
 Business Conduct and Ethics, Code of Ethics for Chief Executive and
@@ -165,7 +165,7 @@ efforts to reduce the risks of obesity. Although it is highly doubtful
 that the government will enforce laws banning high fat and unhealthy
 food options, the possibility still exists.[^11]
 
-*Economic Trends*
+_Economic Trends_
 
 Due to the rise and fall of the economy, consumer spending has
 tightened. Where customers are more critical about where they spend
@@ -193,7 +193,7 @@ economy overall is not a prominent factor determining Krispy Kreme’s
 success because they are not affected by the gross domestic product
 indicators or unemployment numbers unlike most companies.[^14]
 
-*Sociological Trends*
+_Sociological Trends_
 
 A huge sociological factor affects the success of Krispy Kreme would be
 the awareness and concern about health and ingredients in food. Where
@@ -219,7 +219,7 @@ to corporate social responsibility is also evident\
 in our sponsorship for various charity events including disabled support
 events, underprivileged children, neighbor support, etc.[^16]
 
-*Technological Trends*
+_Technological Trends_
 
 In order to stay ahead of the competition, brands must embrace new
 technology, however, in the food industry, technology has little
@@ -242,7 +242,7 @@ Other technological advancements that Krispy Kreme has begun to
 incorporate are paperless ordering, predictive modeling software, and
 hand held computers for their delivery drivers.
 
-*Demographic Trends*
+_Demographic Trends_
 
 Krispy Kreme competes in both the restaurant industry and retail. In the
 restaurant industry; which includes fast food, fast-casual, and full
@@ -255,7 +255,7 @@ the demand for doughnuts, which reduce sales. Krispy Kreme also sells
 doughnuts to supermarkets, gas stations, and retailers such as Wal-Mart
 for resale.
 
-***Industry Analysis***
+**_Industry Analysis_**
 
 <span id="OLE_LINK1" class="anchor"><span id="OLE_LINK2"
 class="anchor"></span></span> Krispy Kreme competes within two major
@@ -365,110 +365,110 @@ performs, high entry barriers, weak bargaining power from both seller
 and buyer, along with weak product substitutions and moderate rivalry
 among competitors were all identifiable.
 
-***Internal Analysis***
+**_Internal Analysis_**
 
--   In 1995, Krispy Kreme moved into a new corporate headquarters,
+*   In 1995, Krispy Kreme moved into a new corporate headquarters,
     reshuffled its management team, and prepared to expand nationwide.
 
--   To leverage the planned growth, the company relied on franchising
+*   To leverage the planned growth, the company relied on franchising
     instead of opening company owned stores
 
--   This allowed Krispy Kreme to receive a steady income flow from
+*   This allowed Krispy Kreme to receive a steady income flow from
     royalty fees, expand its customer base for mix and equipment via
     franchises, and inflate its brand recognition.
 
--   By the end of 1999, the company’s portfolio included 144 shops in 27
+*   By the end of 1999, the company’s portfolio included 144 shops in 27
     states, and revenues had climbed to \$220 million—up 40% from just
     two years earlier
 
--   Krispy Kreme made its IPO in April 2000 with a split-adjusted price
+*   Krispy Kreme made its IPO in April 2000 with a split-adjusted price
     of \$9
 
--   By the close of 2003, the stock was selling at a price just a bit
+*   By the close of 2003, the stock was selling at a price just a bit
     over \$49 per share
 
--   The company had expanded by 433 stores, had reached \$700 million in
+*   The company had expanded by 433 stores, had reached \$700 million in
     revenues, and had earned \$88 million in operating profit
 
--   As it turned out, the rapid expansion of the previous five years had
+*   As it turned out, the rapid expansion of the previous five years had
     not been carefully or effectively planned
 
--   As new franchises saturated the market and the novelty value of the
+*   As new franchises saturated the market and the novelty value of the
     firm’s products faded, it became obvious that the early success of
     many stores was sustainable
 
--   Many of the once-profitable stores began to flounder and, in May
+*   Many of the once-profitable stores began to flounder and, in May
     2004, Krispy Kreme experienced its first unprofitable quarter as a
     public company
 
--   Krispy Kreme implemented a new turnaround strategy that called for
+*   Krispy Kreme implemented a new turnaround strategy that called for
     cutting costs to a sustainable level as a path to prevent the firm’s
     bankruptcy
 
--   Closed over 240 stores as the company retrenched to its stronghold
+*   Closed over 240 stores as the company retrenched to its stronghold
     in the Southeast
 
--   In 2012, 66% of retail stores were located outside the United
+*   In 2012, 66% of retail stores were located outside the United
     States, with estimates of having 900 stores internationally by the
     end of 2017
 
--   Stock price bottomed out at less than \$4 a share in January 2008
+*   Stock price bottomed out at less than \$4 a share in January 2008
 
--   Revenue eventually increased at the end of 2012, Krispy Kreme looked
+*   Revenue eventually increased at the end of 2012, Krispy Kreme looked
     to open as many as 100 new stores domestic and internationally
 
--   Krispy Kreme earns the majority of revenue through the sale of
+*   Krispy Kreme earns the majority of revenue through the sale of
     doughnuts
 
--   Doughnut sales comprise over 88% of all retail sales while the
+*   Doughnut sales comprise over 88% of all retail sales while the
     remainder comes from selling beverage and complementary items
 
--   Maintenance of consistent gross profit margins and modest revenue
+*   Maintenance of consistent gross profit margins and modest revenue
     growth of 4.5 and 11.4% in 2009 and 2010, respectively, have allowed
     Krispy Kreme to contribute to its bottom line and return to
     profitability
 
--   Showed Net Income of \$166 million and a 41% profit margin in fiscal
+*   Showed Net Income of \$166 million and a 41% profit margin in fiscal
     year ending January 2012
 
--   Krispy Kreme maintains wholesale contracts with a wide variety of
+*   Krispy Kreme maintains wholesale contracts with a wide variety of
     grocery stores, convenience stores, and other large
     accounts—including Wal-Mart, Kroger, and Sheetz
 
-***Value Chain***
+**_Value Chain_**
 
 1.  Doughnut recipe
 
--   Unique taste
+*   Unique taste
 
--   Produced, controlled, and consistent
+*   Produced, controlled, and consistent
 
--   Distributed to all stores and franchises
+*   Distributed to all stores and franchises
 
 1.  Manufacturing
 
--   Design and manufacture of the doughnut making equipment
+*   Design and manufacture of the doughnut making equipment
 
--   This is then sold to stores for profit and ensures consistency of
+*   This is then sold to stores for profit and ensures consistency of
     end product
 
 1.  Retail Distribution
 
--   Mixture and equipment is distributed to large factory stores
+*   Mixture and equipment is distributed to large factory stores
 
--   Mix of factory stores that supply smaller stores
+*   Mix of factory stores that supply smaller stores
 
--   Outsourced retail channels in service stations and Wal-Mart
+*   Outsourced retail channels in service stations and Wal-Mart
 
 1.  Store Experience
 
--   Worldwide Locations
+*   Worldwide Locations
 
--   Freshly baked and produced doughnuts each day
+*   Freshly baked and produced doughnuts each day
 
--   Original glazed recipe
+*   Original glazed recipe
 
--   Simple product line
+*   Simple product line
 
 ![](media/image1.png){width="8.20625in" height="9.270833333333334in"}
 
@@ -481,7 +481,7 @@ height="9.622222222222222in"}
 
 ![](media/image5.png){width="7.947916666666667in"
 height="4.25in"}![](media/image6.png){width="8.447916666666666in"
-height="5.121527777777778in"}***Interactive Chart***
+height="5.121527777777778in"}**_Interactive Chart_**
 
 ![](media/image7.png){width="5.033333333333333in"
 height="6.729166666666667in"}![](media/image8.png){width="6.288888888888889in"
@@ -492,59 +492,59 @@ height="4.864583333333333in"}
 
 ![](media/image10.png){width="4.25in" height="3.8541666666666665in"}
 
-***Competitor Analysis***
+**_Competitor Analysis_**
 
--   Primarily competes in the Quick-Service Restaurant (QSR) segment of
+*   Primarily competes in the Quick-Service Restaurant (QSR) segment of
     the restaurant industry
 
--   It also competes on a wholesale level in the Baked Goods Production
+*   It also competes on a wholesale level in the Baked Goods Production
     Industry
 
--   Competitive rivals include: Dunkin Donuts as their closest
+*   Competitive rivals include: Dunkin Donuts as their closest
     competitor, Starbucks, Tim Horton’s, Shipley’s Do-Nuts and other
     smaller bakeries
 
--   Dunkin Donuts has 628.2M in sales compared to Krispy Kreme having
+*   Dunkin Donuts has 628.2M in sales compared to Krispy Kreme having
     just 403.22M
 
--   Dunkin Donuts is offered in 30 countries while Krispy Kreme is only
+*   Dunkin Donuts is offered in 30 countries while Krispy Kreme is only
     in 20 countries
 
--   The firm is able to generate higher ROA and ROE as compared to
+*   The firm is able to generate higher ROA and ROE as compared to
     Dunkin Donuts
 
--   Krispy Kreme has a significantly lower leverage ratio as compared to
+*   Krispy Kreme has a significantly lower leverage ratio as compared to
     Dunkin’s extremely high 195%
 
--   They face less direct competition from McDonald’s, Starbucks, and
+*   They face less direct competition from McDonald’s, Starbucks, and
     coffee shops because of their inability to market coffee sales
 
--   Krispy Kreme also faces some competition with pre-packaged goods
+*   Krispy Kreme also faces some competition with pre-packaged goods
     such as Little Debbie, Hostess and Sara Lee
 
--   As is the case with its competitors, Krispy Kreme has made a
+*   As is the case with its competitors, Krispy Kreme has made a
     concerted effort as of late to expand revenues through coffee sales,
     but the dominant element of the Krispy Kreme business model
     continues to be doughnut sales
 
--   Dunkin Donuts generates approximately 60% of sales revenue from
+*   Dunkin Donuts generates approximately 60% of sales revenue from
     coffee and other beverages; Krispy Kreme continues to lag far behind
     in that regard with only 4% of its sales coming from coffee. They do
     have a plan to double coffee sales within the next two years, but
     they still don’t match up to companies such as Dunkin Donuts and
     Starbucks
 
--   One of the largest concerns in the overall competitive environment
+*   One of the largest concerns in the overall competitive environment
     is the changing demands of consumers
 
--   As consumers become increasingly health conscious, the doughnut
+*   As consumers become increasingly health conscious, the doughnut
     industry becomes more vulnerable to the threat of substitution,
     especially considering that each original glazed Krispy Kreme
     doughnut has 200 calories and 12 grams of fat
 
 ![](media/image11.png){width="5.5625in" height="3.8645833333333335in"}
 
-***SWOT Analysis***
+**_SWOT Analysis_**
 
 Krispy Kreme Doughnuts, Inc. (KKD) is a very successful well known
 company that possesses various strengths. Krispy Kreme’s appeal extends
@@ -758,7 +758,7 @@ consumers continue to be health and nutrition conscious, leading them to
 avoid doughnuts, the company may face a continued slow market growth and
 flat and diminishing sales.
 
-***Strategies***
+**_Strategies_**
 
 Beginning with Krispy Kreme’s core competencies, leadership,
 individuality, and philanthropy are the main themes that the
@@ -816,49 +816,67 @@ an essential for all brands because it’s important to have an open
 channel of dynamic communication toward your audience.
 
 [^1]: <http://www.cluteinstitute.com/ojs/index.php/JBCS/article/view/4771/4861>
-
 [^2]: <https://www.krispykreme.com/about/Our-Story>
-
 [^3]: <https://www.krispykreme.com/about>
-
 [^4]: <https://www.krispykreme.com/about/>
-
 [^5]: <http://www.cluteinstitute.com/ojs/index.php/JBCS/article/view/4771/4861>
-
 [^6]: <https://www.krispykreme.com/about/Our-Story>
+[^7]:
 
-[^7]: <http://study.com/academy/lesson/code-of-business-conduct-ethics-standards-examples.html>
+    <http://study.com/academy/lesson/code-of-business-conduct-ethics-standards-examples.html>
 
-[^8]: <http://investor.shareholder.com/synaptics/corporate-governance-document.cfm?documentid=4754>
+[^8]:
 
-[^9]: <http://investor.shareholder.com/synaptics/corporate-governance-document.cfm?documentid=4754>
+    <http://investor.shareholder.com/synaptics/corporate-governance-document.cfm?documentid=4754>
 
-[^10]: <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
+[^9]:
 
-[^11]: <http://www.harbott.com/2011/01/12/analysing-strategic-forces-that-shape-industries-with-pest/>
+    <http://investor.shareholder.com/synaptics/corporate-governance-document.cfm?documentid=4754>
 
-[^12]: <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
+[^10]:
 
-[^13]: <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
+    <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
+
+[^11]:
+
+    <http://www.harbott.com/2011/01/12/analysing-strategic-forces-that-shape-industries-with-pest/>
+
+[^12]:
+
+    <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
+
+[^13]:
+
+    <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
 
 [^14]: <http://www.angelfire.com/indie/dannydiab/fin821kkd.htm>
+[^15]:
 
-[^15]: <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
+    <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
 
 [^16]: <http://www.krispykreme.com/about/Philanthropy>
+[^17]:
 
-[^17]: <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
+    <http://www.scribd.com/doc/51583175/Casestudy-on-Krispy-Kreme-doughnut#scribd>
 
-[^18]: <http://hotnews.krispykreme.com/blog/rotating-featured-content/krispy-kreme-rolls-out-new-customer-loyalty-app-select-markets>
+[^18]:
+
+    <http://hotnews.krispykreme.com/blog/rotating-featured-content/krispy-kreme-rolls-out-new-customer-loyalty-app-select-markets>
 
 [^19]: http://mergent.firstresearch-learn.com/industry.aspx?chapter=0&pid=414
+[^20]:
 
-[^20]: <http://topics.nytimes.com/top/news/business/companies/krispy-kreme-doughnuts-inc/index.html>
+    <http://topics.nytimes.com/top/news/business/companies/krispy-kreme-doughnuts-inc/index.html>
 
 [^21]: http://mergent.firstresearch-learn.com/industry.aspx?chapter=0&pid=414
+[^22]:
 
-[^22]: http://subscriber.hoovers.com/H/company360/overview.html?companyId=53559000000000
+    http://subscriber.hoovers.com/H/company360/overview.html?companyId=53559000000000
 
-[^23]: http://subscriber.hoovers.com/H/company360/overview.html?companyId=53559000000000
+[^23]:
 
-[^24]: <http://www.forbes.com/sites/panosmourdoukoutas/2013/04/25/dunkin-brands-or-krispy-kreme/>
+    http://subscriber.hoovers.com/H/company360/overview.html?companyId=53559000000000
+
+[^24]:
+
+    <http://www.forbes.com/sites/panosmourdoukoutas/2013/04/25/dunkin-brands-or-krispy-kreme/>
