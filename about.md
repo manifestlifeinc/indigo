@@ -33,12 +33,12 @@ personal experience in the industry.</p>
 	<li>Ebonics</li>
 	<li>People-based Marketing</li>
 	<li>Self-starter</li>
-</ul>s
+</ul>
 
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="http://manifest.life/Google-Case-Study/">Google</a></li>
+	<li><a href="http://manifest.life/google/">Google</a></li>
 	<li><a href="http://manifest.life/opportunity-detroit">Opportunity Detroit</a></li>
 	<li><a href="http://manifest.life/Krispy-Kreme-Case-Study/">Krispy Kreme</a></li>
 </ul>
