@@ -599,15 +599,11 @@ Google a “household name” and in the process, cutting its own throat.
 Five years later Google was out performing Yahoo and by 2009 it had
 captured 70% of the search engine market share.
 
-![](media/image03.png){width="6.0in" height="3.5in"}
-
 As shown in the above table from November 2015, Google’s Market
 Capitalization is approximately fifteen times that of Yahoo’s. In terms
 of Market Share for search engines, Google has approximately 69% of the
 market, Yahoo has 9%, Bing has 12% and Baidu (China) has 7% of the
 market.[^52]
-
-![](media/image06.png){width="6.0in" height="3.5in"}[^53]
 
 Microsoft has the highest revenue out of the three search engines,
 however, when you break the numbers down and look purely at advertising
@@ -620,8 +616,6 @@ positive revenue streak it had going, increasing its search revenue
 year-over-year for the fifth straight quarter.[^55]
 
 **_Value Chain_**
-
-![](media/image05.jpg){width="6.75625in" height="2.736111111111111in"}
 
 Google gathers all the web users it can by inviting them to use its
 top-rated search product with highly relevant results delivered
@@ -636,8 +630,6 @@ there.[^56]
 
 **_Internal Analysis_**
 
-![](media/image10.png){width="6.0in" height="4.726388888888889in"}[^57]
-
 As you can see Google’s Revenue has increased over the past three years.
 An increase in revenue has lead to a constant increase in Net Income.
 Since we are focusing on the Search Engine side of Google, with their
@@ -650,10 +642,6 @@ this multi-device world, Google generates their advertising revenues
 increasingly from mobile phones and newer advertising formats, and the
 margins from the advertising revenues from these sources have generally
 been lower than those from desktop computers and tablets.[^58]
-
-![](media/image09.png){width="6.0in" height="5.895138888888889in"}[^59]
-
-![](media/image11.png){width="6.0in" height="6.375in"}
 
 **_SWOT Analysis_**
 
