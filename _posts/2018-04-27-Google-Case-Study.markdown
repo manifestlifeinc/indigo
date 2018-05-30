@@ -8,7 +8,7 @@ tag:
 - Search Engine
 projects: true
 star: true
-permalink: /google/
+permalink: google
 ---
 
 <span id="h.gjdgxs" class="anchor"></span>
